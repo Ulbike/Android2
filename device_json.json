@@ -1,0 +1,73 @@
+ [
+        {
+            "name": "Смартфон Samsung Galaxy S9, 64 GB, Purple",
+            "description": "Экран 5,8  Super AMOLED 2960 x 1440 (Quad HD+), сенсорный | Стандарт защиты: IP68 | Восьмиядерный процессор | Встроенная память 64 ГБ | Основная камера 12 Мп + фронтальная 8 Мп | Батарея 3000 мАч | Bluetooth 5.0 | Wi-Fi 802.11| ОС Android 8.0 Oreo | Пурпурный",
+            "Rating": "9.16",
+            "price": "339990",
+            "img": "https://evrika.com/upload/iblock/391/samsung_s9_lilac_purple_back_front.jpg"
+        },
+        {
+            "name": "Смартфон Apple iPhone 7, 32 GB, Black",
+            "description": "Экран 4.7 Retina (1334x750), сенсорный | Стандарт защиты: IP67 | Четыреъхъядерный процессор (2.23 ГГц) | Оперативная память 2 ГБ | Встроенная память 32 ГБ | Камера 12 Мп + фронтальная 7 Мп | Батарея 1960 мАч | iOS 10 | Bluetooth 4.2 | Wi-Fi 802.11  | NFC | Поддержка 4G | 138.3 x 67.1 x 7.1 мм, 138 г | Черный",
+            "Rating": "8.12",
+            "price": "254990",
+            "img": "https://img.mvideo.ru/Pdb/30026135b.jpg"
+        },
+        {
+            "name": "Кофеварка капельная Delonghi ICMI-211BZ",
+            "description": "Капельная | Электронное управление | Мощность: 1000 Вт | Автоотключение, подогрев колбы, ECO функция | 10 чашек | Габариты (ВхШхГ): 28х17.6х34.3 см | Вес: 2.7 кг | Цвет: бронзовый",
+            "Rating": "9.16",
+            "price": "44990",
+            "img": "http://www.delonghi.com/Global/Products/Images/Coffee-Makers/Drip-Coffee-Makers/ICMI-211.BZ/ICMI211_BZ_BIANCO-FRONT.jpg"
+        },
+        {
+            "name": "Телевизор Samsung 75 UE75MU6100UXCE LED UHD Smart Black",
+            "description": "Диагональ 75 (191 см) | Разрешение 3840x2160 (4K UHD) | Поддержка SMART TV | Диапазоны тюнера: DVB-C, DVB-T/T2, DVB-S/S2",
+            "Rating": "9.16",
+            "price": "1299990",
+            "img": "https://static.technodom.kz/medias/52566-1s.jpg?context=bWFzdGVyfGltYWdlc3w4NDA4MjF8aW1hZ2UvanBlZ3xpbWFnZXMvaGQwL2hhZC84OTEzNzAwNDIxNjYyLmpwZ3xmZGQ0ODEzYTk1YjJiN2M1ZjBlZjUxNjQzYTk4NDRkMmY2OTU5NGJkODQwYWE1OTg2MGE0NGI1NDRjMTIzODgw"
+        },
+        {
+            "name": "Холодильник LG GC-Q247CABV",
+            "description": "Тип холодильника: side-by-side | Общий объем холодильника: 626 л | Объем холодильной камеры: 406 л | Объем морозильной камеры: 220 л | Дисплей | Тип управления: электронное | Система размораживания : No Frost | Габариты: 179x91x74 см | Цвет: серебристый",
+            "Rating": "9.16",
+            "price": "599990",
+            "img": "https://static.technodom.kz/medias/53155-2.jpg-Default-WorkingFormat-400Wx400HConversionFormat?context=bWFzdGVyfGltYWdlc3wyMjQxOXxpbWFnZS9qcGVnfGltYWdlcy9oZjUvaDI5Lzg4OTgzNTk5ODQxNTguanBnfDNlMDBhZGY0ZmJhM2E1NmI0ODkzOGZjMTFlNjQ2ZGVhYTU4NDQwZDRjOWE1YTcyZWQzMjU0MTFhODUxOWNlNmQ"
+        },
+        {
+            "name": "Смартфон Samsung Galaxy S9, 64 GB, Purple",
+            "description": "Экран 5,8 Super AMOLED 2960 x 1440 (Quad HD+), сенсорный | Стандарт защиты: IP68 | Восьмиядерный процессор | Встроенная память 64 ГБ | Основная камера 12 Мп + фронтальная 8 Мп | Батарея 3000 мАч | Bluetooth 5.0 | Wi-Fi 802.11 | ОС Android 8.0 Oreo | Пурпурный",
+            "Rating": "9.16",
+            "price": "339990",
+            "img": "https://evrika.com/upload/iblock/391/samsung_s9_lilac_purple_back_front.jpg"
+        },
+        {
+            "name": "Смартфон Apple iPhone 7, 32 GB, Black",
+            "description": "Экран 4.7 Retina (1334x750), сенсорный | Стандарт защиты: IP67 | Четыреъхъядерный процессор (2.23 ГГц) | Оперативная память 2 ГБ | Встроенная память 32 ГБ | Камера 12 Мп + фронтальная 7 Мп | Батарея 1960 мАч | iOS 10 | Bluetooth 4.2 | Wi-Fi 802.11  | NFC | Поддержка 4G | 138.3 x 67.1 x 7.1 мм, 138 г | Черный",
+            "Rating": "8.12",
+            "price": "254990",
+            "img": "https://img.mvideo.ru/Pdb/30026135b.jpg"
+        },
+        {
+            "name": "Кофеварка капельная Delonghi ICMI-211BZ",
+            "description": "Капельная | Электронное управление | Мощность: 1000 Вт | Автоотключение, подогрев колбы, ECO функция | 10 чашек | Габариты (ВхШхГ): 28х17.6х34.3 см | Вес: 2.7 кг | Цвет: бронзовый",
+            "Rating": "9.16",
+            "price": "44990",
+            "img": "http://www.delonghi.com/Global/Products/Images/Coffee-Makers/Drip-Coffee-Makers/ICMI-211.BZ/ICMI211_BZ_BIANCO-FRONT.jpg"
+        },
+        {
+            "name": "Телевизор Samsung 75 UE75MU6100UXCE LED UHD Smart Black",
+            "description": "Диагональ 75 (191 см) | Разрешение 3840x2160 (4K UHD) | Поддержка SMART TV | Диапазоны тюнера: DVB-C, DVB-T/T2, DVB-S/S2",
+            "Rating": "9.16",
+            "price": "1299990",
+            "img": "https://static.technodom.kz/medias/52566-1s.jpg?context=bWFzdGVyfGltYWdlc3w4NDA4MjF8aW1hZ2UvanBlZ3xpbWFnZXMvaGQwL2hhZC84OTEzNzAwNDIxNjYyLmpwZ3xmZGQ0ODEzYTk1YjJiN2M1ZjBlZjUxNjQzYTk4NDRkMmY2OTU5NGJkODQwYWE1OTg2MGE0NGI1NDRjMTIzODgw"
+        },
+        {
+            "name": "Холодильник LG GC-Q247CABV",
+            "description": "Тип холодильника: side-by-side | Общий объем холодильника: 626 л | Объем холодильной камеры: 406 л | Объем морозильной камеры: 220 л | Дисплей | Тип управления: электронное | Система размораживания : No Frost | Габариты: 179x91x74 см | Цвет: серебристый",
+            "Rating": "9.16",
+            "price": "599990",
+            "img": "https://static.technodom.kz/medias/53155-2.jpg-Default-WorkingFormat-400Wx400HConversionFormat?context=bWFzdGVyfGltYWdlc3wyMjQxOXxpbWFnZS9qcGVnfGltYWdlcy9oZjUvaDI5Lzg4OTgzNTk5ODQxNTguanBnfDNlMDBhZGY0ZmJhM2E1NmI0ODkzOGZjMTFlNjQ2ZGVhYTU4NDQwZDRjOWE1YTcyZWQzMjU0MTFhODUxOWNlNmQ"
+        }
+
+    ]
